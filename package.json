@@ -1,6 +1,6 @@
 {
   "name": "demo-github-blocks",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "cowsay.js",
+  "license": "MIT",
 }
